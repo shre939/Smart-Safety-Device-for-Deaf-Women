@@ -1,6 +1,7 @@
 # 🧥 Smart Safety Jacket 
 
 In a world where even able-bodied women face safety concerns, the thought of the challenges encountered by **deaf women** is even more pressing. This conceptual design presents a **wearable safety jacket** aimed at enhancing protection and awareness for deaf women in vulnerable or low-visibility situations. By integrating **sensors, communication modules, and tactile feedback**, the design provides real-time alerts and discreet assistance to the wearer.  
+As a part of our *Design Thinking* project I designed a convertible jacket which could also be used as a backpack. 
 
 ---
 
@@ -74,6 +75,9 @@ The README serves as **documentation of the concept and design flow**, and may b
 
 ## 📷 Concept Diagram (Future Addition)  
 
-> *[Insert block diagram or system schematic here once available]*  
-
+Images of the design : 
+> ![Image 1] (assets/1.jpg)
+> ![Image 2] (assets/2.jpg)
+> ![Image 3] (assets/3.jpg)
+> ![Image 4] (assets/4.jpg)
 ---
