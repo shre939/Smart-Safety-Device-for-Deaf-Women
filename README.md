@@ -76,8 +76,8 @@ The README serves as **documentation of the concept and design flow**, and may b
 ## 📷 Concept Diagram (Future Addition)  
 
 Images of the design : 
-> ![Image 1] (assets/1.jpg)
-> ![Image 2] (assets/2.jpg)
-> ![Image 3] (assets/3.jpg)
-> ![Image 4] (assets/4.jpg)
+![Image 1] (assets/1.jpg)
+![Image 2] (assets/2.jpg)
+![Image 3] (assets/3.jpg)
+![Image 4] (assets/4.jpg)
 ---
